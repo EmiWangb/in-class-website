@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(0, 106, 104);
+    font-family: Garamond, serif;
+    color:rgb(212, 235, 255)
+}
+a {
+    color: rgb(153, 255, 202) ;
+    text-decoration:double;
+}
+h1 {
+    text-decoration: underline;
+    color: ivory;
+    background-color:rgb(59, 135, 132);
+}
+h3 {
+    color: rgb(234, 241, 255);
+}
+
+h2 { 
+    color: ivory;  
+    background-color:rgb(59, 135, 132); 
+}
+
+.city-wrapper {
+    padding: 40px;
+    background-color:rgb(59, 135, 132);
+    margin-bottom: 50px;
+}
+
