@@ -40,9 +40,19 @@ h2 {
     background-color:rgb(59, 135, 132);
     margin-bottom: 50px;
 }
+.city-wrapper-index{
+    padding: 40px;
+    background-color:rgb(59, 135, 132);
+    margin-bottom: 50px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+
+}
 
 .container{ 
-    max-width:600px;
+    max-width:500px;
     margin-left: auto;
     margin-right: auto;
     
@@ -51,3 +61,12 @@ h2 {
     width: 100%;
 }
 
+
+.city-text{
+    width: 50%;
+
+}
+.city-img{
+    width: 20%;
+
+}
